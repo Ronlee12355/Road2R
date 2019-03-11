@@ -16,7 +16,7 @@ Collaboration and pull requests are always welcomed!
 
 ## Table of Contents
 - [Awesome R](#awesome-R)
-	- [Package collection]()
+	- [Package collection](#data-manipulation)
 		- [Data manipulation](#data-manipulation)
 		- [Visualization](#visualization)
 		- [Import data](#import-data)
