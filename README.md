@@ -2,9 +2,17 @@
 
 A curated list of amazingly awesome R libraries, resources and package collection.  
 
+!['R logo'](Rlogonew.png)
+
 ## Contributing Information
 Please see [author's details](https://github.com/Ronlee12355) and author's [personal website](http://www.ronleecww.cn)!   
 Collaboration and pull requests are always welcomed!   
+
+## Workflow for Data Science
+!['workflow of data science'](data-science.png)
+
+## Workflow of Text Mining
+!['workflow of text mining'](tidyflow.png)
 
 ## Table of Contents
 - [Awesome R](#awesome-R)
@@ -217,3 +225,4 @@ Collaboration and pull requests are always welcomed!
 * [R for Data Science](https://r4ds.had.co.nz) - This is the website for “R for Data Science”.
 * [Text Mining with R - A Tidy Approach](https://www.tidytextmining.com) - This is the website for Text Mining with R.
 * [R Start Here](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R Packages that we know about.
+* [ggplot2 Doc](https://ggplot2.tidyverse.org/reference/) - Reference of ggplot2.
