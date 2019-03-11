@@ -15,6 +15,10 @@ Collaboration and pull requests are always welcomed!
 		- [Interactive Graphics]()
 		- [Word cloud]()
 		- [Text mining]()
+		- [Machine learning]()
+		- [Deep learning]()
+		- [Time series]()
+		- [Markdown]()
 	- [Online blogs](#online-blogs)
 	- [Learning materials](#learning-materials)
 	
@@ -24,3 +28,7 @@ Collaboration and pull requests are always welcomed!
 
 * [RPubs](http://www.rpubs.com) - Easy web publishing from R.
 * [Shinyapps](https://www.shinyapps.io/) - Share your Shiny Applications Online.
+* [R-bloggers](https://www.r-bloggers.com) - R news and tutorials contributed by (750) R bloggers.
+* [RWeekly](https://rweekly.org) - Weekly Updates from the Entire R Community.
+* [RDocumentation](https://www.rdocumentation.org) - Search all 16,944 CRAN, Bioconductor and GitHub packages.
+* [](https://community.rstudio.com) - The Rstudio Community.
