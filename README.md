@@ -13,18 +13,18 @@ Collaboration and pull requests are always welcomed!
 		- [Visualization](#visualization)
 		- [Import data](#import-data)
 		- [Network graph](#network-graph)
-		- [Interactive Graphics]()
-		- [Word cloud]()
-		- [Text mining]()
-		- [Machine learning]()
-		- [Time series]()
-		- [Markdown]()
-		- [Development in R]()
+		- [Interactive Graphics](#interactive-graphics)
+		- [Word cloud](#word-cloud)
+		- [Text mining](#text-mining)
+		- [Machine learning](#machine-learning)
+		- [Time series](#time-series)
+		- [Markdown](#markdown)
+		- [Development in R](#development-in-r)
 	- [Online blogs](#online-blogs)
 	- [Learning materials](#learning-materials)
 	
 ### Data manipulation
-*Packages to help you manipulate your data*
+*Packages that enable you to manipulate data*
 
 * [dplyr](https://github.com/hadley/dplyr) - a grammar of data manipulation.
 * [tibble](https://github.com/hadley/tibble) - efficient display structure for tabular data.
