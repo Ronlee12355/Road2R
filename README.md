@@ -60,8 +60,7 @@ Collaboration and pull requests are always welcomed!
 * [ggnetwork](https://cran.r-project.org/package=ggnetwork) - Geometrics to Plot Networks with ''ggplot2''. 
 * [ggmap](https://github.com/dkahle/ggmap) - Spatial Visualization with ''ggplot2''. 
 * [ggpubr](http:/www.sthda.com/english/rpkgs/ggpubr) - ''ggplot2'' Based Publication Ready Plots. 
-* [ggrepel](http://github.com/slowkow/ggrepel) - Automatically Position Non-Overlapping Text Labels with
-        'ggplot2'.
+* [ggrepel](http://github.com/slowkow/ggrepel) - Automatically Position Non-Overlapping Text Labels with 'ggplot2'.
 * [ggridge](https://github.com/clauswilke/ggridges) - Ridgeline Plots in 'ggplot2'.
 * [ggsci](https://github.com/road2stat/ggsci) - Scientific Journal and Sci-Fi Themed Color palettes for 'ggplot2'.
 * [ggsignif](https://github.com/const-ae/ggsignif) - Significance Brackets for 'ggplot2'.
@@ -136,6 +135,67 @@ Collaboration and pull requests are always welcomed!
 * [wordcloud](http://research.cens.ucla.edu/) - Word Clouds.
 * [wordcloud2](https://github.com/lchiffon/wordcloud2) - Create Word Cloud by 'htmlwidget'.
 
+
+### Text mining
+*packages that enable you to do text mining*
+
+* [tidytext](http://github.com/juliasilge/tidytext) - Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools.
+* [widyr](http://github.com/dgrtwo/widyr) - Widen, Process, then Re-Tidy Data.
+* [tm](http://tm.r-forge.r-project.org/) - Text Mining Package.
+* [NLP](https://cran.r-project.org/package=NLP) - Natural Language Processing Infrastructure.
+* [janeaustenr](https://cran.r-project.org/package=janeaustenr) - Jane Austen's Complete Novels.
+ 
+
+### Machine learning
+*packages that enable you to deploy machine learning algorithms*
+
+* [caret](https://github.com/topepo/caret/) - Classification and Regression Training.
+* [xgboost](https://github.com/dmlc/xgboost) - Extreme Gradient Boosting.
+* [glmnet](http://www.jstatsoft.org/v33/i01/.) - Lasso and Elastic-Net Regularized Generalized Linear Models.
+* [e1071](https://cran.r-project.org/package=e1071) - Misc Functions of the Department of Statistics, ProbabilityTheory Group (Formerly: E1071), TU Wien.
+* [arules](https://github.com/mhahsler/arules) - Mining Association Rules and Frequent Itemsets.
+* [car](https://CRAN.R-project.org/package=car) - Companion to Applied Regression.
+* [igraph](http://igraph.org) - PageRank algotirhm.
+* [kernlab](https://cran.r-project.org/package=kernlab) - Kernel-Based Machine Learning Lab.
+* [modelr](https://github.com/hadley/modelr) - Modelling Functions that Work with the Pipe.
+* [gbm](https://github.com/gbm-developers/gbm) - gradient boosted regression models.
+* [nlme](https://cran.r-project.org/package=nlme) - Linear and Nonlinear Mixed Effects Models.
+* [randomForest](https://www.stat.berkeley.edu/~breiman/RandomForests/) - Breiman and Cutler's Random Forests for Classification and Regression.
+* [rpart](https://cran.r-project.org/package=rpart) - Recursive Partitioning and Regression Trees.
+* [boot](https://cran.r-project.org/package=boot) - Bootstrap Functions (Originally by Angelo Canty for S).
+* [gbm](https://github.com/gbm-developers/gbm) - gradient boosted regression models.
+* [nnet](http://www.stats.ox.ac.uk/pub/MASS4/) - Feed-Forward Neural Networks and Multinomial Log-Linear Models.
+* [neuralnet](https://github.com/bips-hb/neuralnet) - Training of Neural Networks.
+* [h2o](http://www.h2o.ai/) - parallel distributed machine learning algorithms.
+
+
+### Time series
+*packages that enable you to play with time*
+
+* [xts](https://github.com/joshuaulrich/xts) - eXtensible Time Series.
+* [forecast](https://github.com/robjhyndman/forecast) - Forecasting Functions for Time Series and Linear Models.
+* [zoo](http://zoo.R-Forge.R-project.org/) - S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations).
+
+
+### Markdown
+*packages that enable you to write markdwon in R*
+
+* [rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R.
+* [rsconnect](https://cran.r-project.org/package=rsconnect) - Deployment Interface for R Markdown Documents and Shiny Applications.
+* [knit](https://yihui.name/knitr/) - A General-Purpose Package for Dynamic Report Generation in R.
+
+### Development in R
+*packages that enable you to develop your own project*
+
+* [devtools](https://github.com/r-lib/devtools) - Tools to Make Developing R Packages Easier.
+* [Rcpp](https://github.com/RcppCore/Rcpp) - Seamless R and C++ Integration.
+* [testthat](https://github.com/r-lib/testthat) - Unit Testing for R.
+* [roxygen2](https://github.com/klutometis/roxygen) - In-Line Documentation for R.
+* [bindrcpp](https://github.com/krlmlr/bindrcpp) - An 'Rcpp' Interface to Active Bindings.
+* [RStudio Desktop IDE](https://www.rstudio.com/products/rstudio/#Desktop) - IDE.
+* [RStudio Server Open Source](https://www.rstudio.com/products/rstudio/#Server) - server IDE.
+* [Anaconda](https://www.anaconda.com) - The World's Most Popular Python/R Data Science Platform.
+* [Visual Studio Code](https://code.visualstudio.com) - Open source code editor.
 
 
 ### Online blogs
