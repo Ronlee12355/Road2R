@@ -32,3 +32,12 @@ Collaboration and pull requests are always welcomed!
 * [RWeekly](https://rweekly.org) - Weekly Updates from the Entire R Community.
 * [RDocumentation](https://www.rdocumentation.org) - Search all 16,944 CRAN, Bioconductor and GitHub packages.
 * [Rstudio Community](https://community.rstudio.com) - The Rstudio Community.
+
+
+### Learning materials
+*Online learning materials*  
+
+* [Writing R extension](https://cran.r-project.org/doc/manuals/r-release/R-exts.pdf) - The online pdf of telling you how to write your own packages.
+* [R packages](http://r-pkgs.had.co.nz) - This is the book site for “R packages”. It was published with O’Reilly in April 2015.
+* [R for Data Science](https://r4ds.had.co.nz) - This is the website for “R for Data Science”.
+* [Text Mining with R - A Tidy Approach](https://www.tidytextmining.com) - This is the website for Text Mining with R.
