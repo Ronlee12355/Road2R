@@ -9,8 +9,9 @@ Collaboration and pull requests are always welcomed!
 ## Table of Contents
 - [Awesome R](#awesome-R)
 	- [Package collection]()
-		- [Data manipulation]()
+		- [Data manipulation](#data-manipulation)
 		- [Visualization]()
+		- [Import data]()
 		- [Network graph]()
 		- [Interactive Graphics]()
 		- [Word cloud]()
@@ -22,6 +23,25 @@ Collaboration and pull requests are always welcomed!
 	- [Online blogs](#online-blogs)
 	- [Learning materials](#learning-materials)
 	
+### Data manipulation
+*Packages to help you manipulate your data*
+
+* [dplyr](https://github.com/hadley/dplyr) - a grammar of data manipulation.
+* [tibble](https://github.com/hadley/tibble) - efficient display structure for tabular data.
+* [dbplyr](https://github.com/tidyverse/dbplyr) - A 'dplyr' Back End for Databases.
+* [plyr](https://github.com/hadley/plyr) - the split-apply-combine paradigm for R.
+* [tidyr](https://github.com/tidyverse/tidyr) - Easily Tidy Data with 'spread()' and 'gather()' Functions.
+* [jsonlite](https://arxiv.org/abs/1403.2805) - A Robust, High Performance JSON Parser and Generator for R.
+* [stringr](https://github.com/tidyverse/stringr) - Simple, Consistent Wrappers for Common String Operations.
+* [stringi](http://www.gagolewski.com/software/stringi/) - Character String Processing Facilities.
+* [data.table](http://r-datatable.com) - Extension of "data.frame".
+* [magrittr](https://github.com/smbache/magrittr) - A Forward-Pipe Operator for R.
+* [reshape2](https://github.com/hadley/reshape) - Flexibly Reshape Data: A Reboot of the Reshape Package.
+* [forcats](https://github.com/tidyverse/forcats) - Tools for Working with Categorical Variables (Factors).
+* [broom](http://github.com/tidyverse/broom) - Convert Statistical Analysis Objects into Tidy Data Frames.
+* [Matrix](http://Matrix.R-forge.R-project.org/) - Sparse and Dense Matrix Classes and Methods.
+* [lubridate](https://github.com/tidyverse/lubridate) - Make Dealing with Dates a Little Easier.
+* [xts](http://r-forge.r-project.org/projects/xts) - tools for time series based data.
 
 ### Online blogs
 *Online blogs.*
@@ -41,3 +61,4 @@ Collaboration and pull requests are always welcomed!
 * [R packages](http://r-pkgs.had.co.nz) - This is the book site for “R packages”. It was published with O’Reilly in April 2015.
 * [R for Data Science](https://r4ds.had.co.nz) - This is the website for “R for Data Science”.
 * [Text Mining with R - A Tidy Approach](https://www.tidytextmining.com) - This is the website for Text Mining with R.
+* [R Start Here](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R Packages that we know about.
