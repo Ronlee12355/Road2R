@@ -10,7 +10,7 @@ Collaboration and pull requests are always welcomed!
 - [Awesome R](#awesome-R)
 	- [Package collection]()
 		- [Data manipulation](#data-manipulation)
-		- [Visualization]()
+		- [Visualization](#visualization)
 		- [Import data]()
 		- [Network graph]()
 		- [Interactive Graphics]()
@@ -20,6 +20,7 @@ Collaboration and pull requests are always welcomed!
 		- [Deep learning]()
 		- [Time series]()
 		- [Markdown]()
+		- [Development in R]()
 	- [Online blogs](#online-blogs)
 	- [Learning materials](#learning-materials)
 	
@@ -42,6 +43,47 @@ Collaboration and pull requests are always welcomed!
 * [Matrix](http://Matrix.R-forge.R-project.org/) - Sparse and Dense Matrix Classes and Methods.
 * [lubridate](https://github.com/tidyverse/lubridate) - Make Dealing with Dates a Little Easier.
 * [xts](http://r-forge.r-project.org/projects/xts) - tools for time series based data.
+* [hashmap](https://github.com/nathan-russell/hashmap) - The Faster Hash Map.
+* [rlist](https://github.com/rekun-ken/rlist) - A Toolbox for Non-Tabular Data Manipulation.
+* [yaml](https://github.com/viking/r-yaml/) - Methods to Convert R Data to YAML and Back.
+* [xml2](https://github.com/hadley/xml2/) - Parse XML.
+
+
+### Visualization
+*Packages that enable you to plot*
+
+* [ggplot2](https://github.com/tidyverse/ggplot2) - Create Elegant Data Visualisations Using the Grammar of Graphics.
+* [gganinate](http://github.com/thomasp85/gganimate) - A Grammar of Animated Graphics.
+* [ggedit](https://github.com/metrumresearchgroup/ggedit) - Interactive 'ggplot2' Layer and Theme Aesthetic Editor.
+* [ggfittext](https://github.com/wilkox/ggfittext) - Fit Text Inside a Box in 'ggplot2'.
+* [ggforce](https://cran.r-project.org/package=ggforce) - Accelerating 'ggplot2'.
+* [gggenes](https://github.com/wilkox/gggenes) - Draw Arrow Maps in 'ggplot2'. 
+* [ggnetwork](https://cran.r-project.org/package=ggnetwork) - Geometrics to Plot Networks with ''ggplot2''. 
+* [ggmap](https://github.com/dkahle/ggmap) - Spatial Visualization with ''ggplot2''. 
+* [ggpubr](http:/www.sthda.com/english/rpkgs/ggpubr) - ''ggplot2'' Based Publication Ready Plots. 
+* [ggrepel](http://github.com/slowkow/ggrepel) - Automatically Position Non-Overlapping Text Labels with
+        'ggplot2'.
+* [ggridge](https://github.com/clauswilke/ggridges) - Ridgeline Plots in 'ggplot2'.
+* [ggsci](https://github.com/road2stat/ggsci) - Scientific Journal and Sci-Fi Themed Color palettes for 'ggplot2'.
+* [ggsignif](https://github.com/const-ae/ggsignif) - Significance Brackets for 'ggplot2'.
+* [ggthemes](http://github.com/jrnold/ggthemes) - Extra Themes, Scales and Geoms for 'ggplot2'.
+* [ggvis](http://ggvis.rstudio.com) - Interactive Grammar of Graphics.
+* [cowplot](https://github.com/wilkelab/cowplot) - Streamlined Plot Theme and Plot Annotations for 'ggplot2'.
+* [treemapify](https://github.com/wilkox/treemapify) - Draw Treemaps in 'ggplot2'.
+* [ggalluvial](http://corybrunson.github.io/ggalluvial/) - Alluvial Diagrams in 'ggplot2'.
+* [GGally](https://github.com/ggobi/ggally) - Extension to 'ggplot2'.
+* [alluvial](https://github.com/mbojan/alluvial) - Alluvial Diagrams.
+* [corrplot](https://github.com/taiyun/corrplot) - Visualization of a Correlation Matrix.
+* [arulesViz](https://github.com/mhahsler/arulesViz) - Visualizing Association Rules and Frequent Itemsets.
+* [gplots](https://cran.r-project.org/package=gplots) - Various R Programming Tools for Plotting Data.
+* [rpart.plot](http://www.milbo.org/rpart-plot) - Plot 'rpart' Models: An Enhanced Version of 'plot.rpart'.
+* [survival](https://github.com/therneau/survival/) - Survival Analysis. 
+* [pheatmap](https://cran.r-project.org/package=pheatmap) - Pretty Heatmap.
+* [ROCR](http://rocr.bioinf.mpi-sb.mpg.de) - Visualization the Performance of Scoring Classifiers.
+* [pROC](http://expasy.org/tools/pROC/) - Display and Analyze ROC Curves.
+* [ggstance](https://github.com/lionel-/ggstance) - Horizontal versions of common plots.
+* [ggExtra](https://github.com/daattali/ggExtra) - Marginal histograms for a plot.
+
 
 ### Online blogs
 *Online blogs.*
