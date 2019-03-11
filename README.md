@@ -9,6 +9,18 @@ Collaboration and pull requests are always welcomed!
 ## Table of Contents
 - [Awesome R](#awesome-R)
 	- [Package collection]()
-	- [Blogs]()
-	- [Learning materials]()
+		- [Data manipulation]()
+		- [Visualization]()
+		- [Network graph]()
+		- [Interactive Graphics]()
+		- [Word cloud]()
+		- [Text mining]()
+	- [Online blogs](#online-blogs)
+	- [Learning materials](#learning-materials)
 	
+
+### Online blogs
+*Online blogs.*
+
+* [RPubs](http://www.rpubs.com) - Easy web publishing from R.
+* [Shinyapps](https://www.shinyapps.io/) - Share your Shiny Applications Online.
