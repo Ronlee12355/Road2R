@@ -115,6 +115,28 @@ Collaboration and pull requests are always welcomed!
 * [visNetwork](http://datastorm-open.github.io/visNetwork/) - Network Visualization using 'vis.js' Library.
 
 
+### Interactive Graphics
+*packages that enable you to make interactive graphics*
+
+* [htmlwidgets](http://www.htmlwidgets.org/) - framework for creating JavaScript widgets with R.
+* [networkD3](http://christophergandrud.github.io/networkD3/) - Interative d3 network graphs.
+* [d3heatmap](https://github.com/rstudio/d3heatmap) - Interactive d3 heatmaps.
+* [DT](http://rstudio.github.io/DT/) - Interactive tables.
+* REmap - Create html maps by Echarts.
+* [echarts4r](https://github.com/JohnCoene/echarts) - EChart htmlwidget.
+* [leaflet](http://rstudio.github.io/leaflet/) - Interactive maps.
+* [plotly](https://plot.ly/r/) - Interactive plots.
+* [Highcharter](http://jkunst.com/highcharter/) - Interactive Highcharts plots.
+* [visNetwork](http://dataknowledge.github.io/visNetwork) - Interactive network graphs.
+
+
+### Word cloud
+*packages that enable you to draw word cloud*
+
+* [wordcloud](http://research.cens.ucla.edu/) - Word Clouds.
+* [wordcloud2](https://github.com/lchiffon/wordcloud2) - Create Word Cloud by 'htmlwidget'.
+
+
 
 ### Online blogs
 *Online blogs.*
