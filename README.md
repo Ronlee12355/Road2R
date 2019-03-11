@@ -17,7 +17,6 @@ Collaboration and pull requests are always welcomed!
 		- [Word cloud]()
 		- [Text mining]()
 		- [Machine learning]()
-		- [Deep learning]()
 		- [Time series]()
 		- [Markdown]()
 		- [Development in R]()
