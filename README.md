@@ -31,4 +31,4 @@ Collaboration and pull requests are always welcomed!
 * [R-bloggers](https://www.r-bloggers.com) - R news and tutorials contributed by (750) R bloggers.
 * [RWeekly](https://rweekly.org) - Weekly Updates from the Entire R Community.
 * [RDocumentation](https://www.rdocumentation.org) - Search all 16,944 CRAN, Bioconductor and GitHub packages.
-* [](https://community.rstudio.com) - The Rstudio Community.
+* [Rstudio Community](https://community.rstudio.com) - The Rstudio Community.
