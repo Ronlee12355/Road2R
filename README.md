@@ -47,36 +47,6 @@ Collaboration and pull requests are always welcomed!
 * [yaml](https://github.com/viking/r-yaml/) - Methods to Convert R Data to YAML and Back.
 * [xml2](https://github.com/hadley/xml2/) - Parse XML.
 
-### Import Data
-*Packages that enable you to import, load and save data*
-
-* [readr]() - 
-* [openxlsx]() - 
-* [readxl]() - 
-* [clipr]() - 
-* [data.table]() - 
-* [feather]() - 
-* [haven]() - 
-* [httr]() - 
-* [rvest]() - 
-* [DBI]() - 
-* [RMySQL]() - 
-* [RPostgres]() - 
-* [RSQLite]() - 
-* [git2r]() - 
-* [RCurl]() - 
-
-### Network graph
-*packages that enable you to visualize network*
-
-* [igraph]() - 
-* [ggnetwork](https://cran.r-project.org/package=ggnetwork) - Geometrics to Plot Networks with ''ggplot2''.  
-* [network3D]() - 
-* [network]() - 
-* [sna]() - 
-* [snow]() - 
-* [visNetwork]() - 
-
 
 ### Visualization
 *Packages that enable you to plot*
@@ -112,6 +82,38 @@ Collaboration and pull requests are always welcomed!
 * [pROC](http://expasy.org/tools/pROC/) - Display and Analyze ROC Curves.
 * [ggstance](https://github.com/lionel-/ggstance) - Horizontal versions of common plots.
 * [ggExtra](https://github.com/daattali/ggExtra) - Marginal histograms for a plot.
+
+
+### Import Data
+*Packages that enable you to import, load and save data*
+
+* [readr](https://github.com/tidyverse/readr) - Read Rectangular Text Data.
+* [openxlsx](https://github.com/awalker89/openxlsx) - Read, Write and Edit XLSX Files
+* [readxl](https://github.com/tidyverse/readxl) - Read Excel Files.
+* [clipr](https://github.com/mdlincoln/clipr) - Read and Write from the System Clipboard.
+* [data.table](http://r-datatable.com) - Extension of "data.frame".
+* [feather](https://github.com/wesm/feather) - R Bindings to the Feather 'API'.
+* [haven](https://github.com/tidyverse/haven) - Import and Export 'SPSS', 'Stata' and 'SAS' Files.
+* [httr](https://github.com/r-lib/httr) - Tools for Working with URLs and HTTP.
+* [rvest](https://github.com/hadley/rvest) - Easily Harvest (Scrape) Web Pages.
+* [DBI](http://r-dbi.github.io/DBI) - R Database Interface
+* [RMySQL](https://github.com/rstats-db/RMySQL) - MySQL driver for DBI
+* [RPostgres](https://github.com/rstats-db/RPostgres) - Postgres driver for DBI
+* [RSQLite](https://github.com/rstats-db/RSQLite) - SQlite driver for DBI
+* [git2r](https://github.com/ropensci/git2r) - Provides Access to Git Repositories.
+* [RCurl](http://www.omegahat.net/RCurl) - General Network (HTTP/FTP/...) Client Interface for R.
+
+### Network graph
+*packages that enable you to visualize network*
+
+* [igraph](http://igraph.org) - Network Analysis and Visualization.
+* [ggnetwork](https://cran.r-project.org/package=ggnetwork) - Geometrics to Plot Networks with ''ggplot2''.  
+* [network3D](https://CRAN.R-project.org/package=networkD3) - D3 JavaScript Network Graphs from R.
+* [network](http://statnet.org/) - Classes for Relational Data.
+* [sna](http://www.statnet.org) - Tools for Social Network Analysis.
+* [snow](https://CRAN.R-project.org/package=snow) - Simple Network of Workstations.
+* [visNetwork](http://datastorm-open.github.io/visNetwork/) - Network Visualization using 'vis.js' Library.
+
 
 
 ### Online blogs
