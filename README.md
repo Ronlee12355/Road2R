@@ -1,4 +1,4 @@
-# awesome-R
+# Road2R
 
 A curated list of amazingly awesome R libraries, resources and package collection.  
 
@@ -15,7 +15,7 @@ Collaboration and pull requests are always welcomed!
 !['workflow of text mining'](tidyflow.png)
 
 ## Table of Contents
-- [Awesome R](#awesome-R)
+- [Awesome R](#Road2R)
 	- [Package collection](#data-manipulation)
 		- [Data manipulation](#data-manipulation)
 		- [Visualization](#visualization)
