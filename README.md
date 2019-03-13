@@ -15,7 +15,7 @@ Collaboration and pull requests are always welcomed!
 !['workflow of text mining'](tidyflow.png)
 
 ## Table of Contents
-- [Awesome R](#Road2R)
+- [Road2R](#Road2R)
 	- [Package collection](#data-manipulation)
 		- [Data manipulation](#data-manipulation)
 		- [Visualization](#visualization)
