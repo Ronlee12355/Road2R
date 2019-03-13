@@ -226,4 +226,5 @@ Collaboration and pull requests are always welcomed!
 * [Text Mining with R - A Tidy Approach](https://www.tidytextmining.com) - This is the website for Text Mining with R.
 * [R Start Here](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R Packages that we know about.
 * [ggplot2 Doc](https://ggplot2.tidyverse.org/reference/) - Reference of ggplot2.
-* [Plotly for R](https://plotly-r.com/index.html) - plotly for R
+* [Plotly for R](https://plotly-r.com/index.html) - plotly for R.
+* [Efficient R programming](https://csgillespie.github.io/efficientR/) - Efficient R programming by Colin Gillespie and Robin Lovelace.
