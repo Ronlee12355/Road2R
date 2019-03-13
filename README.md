@@ -228,3 +228,10 @@ Collaboration and pull requests are always welcomed!
 * [ggplot2 Doc](https://ggplot2.tidyverse.org/reference/) - Reference of ggplot2.
 * [Plotly for R](https://plotly-r.com/index.html) - plotly for R.
 * [Efficient R programming](https://csgillespie.github.io/efficientR/) - Efficient R programming by Colin Gillespie and Robin Lovelace.
+* [Advanced R](https://adv-r.hadley.nz/) - Advanced R.
+* [bookdown: Authoring Books and Technical ](https://bookdown.org/yihui/bookdown/) - Documents with R Markdown.
+* [Geocomputation with R](https://geocompr.robinlovelace.net/) - Geocomputation with R.
+* [knitr](https://yihui.name/knitr/) - knitr: elegant, flexible, and fast dynamic report generation with R.
+* [Machine Learning with TensorFlow(R version)](https://github.com/haven-jeon/TensorFlow-Book-R) - This repository is for practicing R tensorflow modeling exercises.
+* [R的极客理想-高级开发篇](https://github.com/bsspirit/book-r2) - R的极客理想-高级开发篇.
+* [swirl](https://github.com/swirldev/swirl) - swirl is a platform for learning (and teaching) statistics and R simultaneously and interactively.
