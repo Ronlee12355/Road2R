@@ -176,6 +176,8 @@ Collaboration and pull requests are always welcomed!
 * [nnet](http://www.stats.ox.ac.uk/pub/MASS4/) - Feed-Forward Neural Networks and Multinomial Log-Linear Models.
 * [neuralnet](https://github.com/bips-hb/neuralnet) - Training of Neural Networks.
 * [h2o](http://www.h2o.ai/) - parallel distributed machine learning algorithms.
+* [mlr](https://github.com/mlr-org/mlr) - Machine Learning in R.
+* [ggpomological](https://github.com/gadenbuie/ggpomological) - Pomological Colors.
 
 
 ### Time series
