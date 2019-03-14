@@ -54,6 +54,7 @@ Collaboration and pull requests are always welcomed!
 * [rlist](https://github.com/rekun-ken/rlist) - A Toolbox for Non-Tabular Data Manipulation.
 * [yaml](https://github.com/viking/r-yaml/) - Methods to Convert R Data to YAML and Back.
 * [xml2](https://github.com/hadley/xml2/) - Parse XML.
+* [lobstr](https://lobstr.r-lib.org) - lobstr provides tools in the same vein as str(), which allow you to dig into the detail of an object.
 
 
 ### Visualization
