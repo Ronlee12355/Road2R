@@ -178,6 +178,7 @@ Collaboration and pull requests are always welcomed!
 * [h2o](http://www.h2o.ai/) - parallel distributed machine learning algorithms.
 * [mlr](https://github.com/mlr-org/mlr) - Machine Learning in R.
 * [ggpomological](https://github.com/gadenbuie/ggpomological) - Pomological Colors.
+* [visdat](https://github.com/ropensci/visdat) - Preliminary Exploratory Visualisation of Data.
 
 
 ### Time series
@@ -238,3 +239,7 @@ Collaboration and pull requests are always welcomed!
 * [Machine Learning with TensorFlow(R version)](https://github.com/haven-jeon/TensorFlow-Book-R) - This repository is for practicing R tensorflow modeling exercises.
 * [R的极客理想-高级开发篇](https://github.com/bsspirit/book-r2) - R的极客理想-高级开发篇.
 * [swirl](https://github.com/swirldev/swirl) - swirl is a platform for learning (and teaching) statistics and R simultaneously and interactively.
+* [stats337](https://github.com/hadley/stats337) - Stats 337: Readings in Applied Data Science.
+* [Data Science in Education Book](https://github.com/data-edu/data-science-in-education) - Book on data science (or data analysis) in education using R.
+* [datascience-box](https://github.com/rstudio-education/datascience-box) - Data Science Course in a Box.
+* [R語言翻轉教室](http://www.datascienceandr.org) - 全中文R語言互動式教材.
