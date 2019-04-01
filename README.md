@@ -234,6 +234,7 @@ Collaboration and pull requests are always welcomed!
 * [Plotly for R](https://plotly-r.com/index.html) - plotly for R.
 * [Efficient R programming](https://csgillespie.github.io/efficientR/) - Efficient R programming by Colin Gillespie and Robin Lovelace.
 * [Advanced R](https://adv-r.hadley.nz/) - Advanced R.
+* [Advanced R Solutions](https://advanced-r-solutions.rbind.io/) - Advanced R Solutions.   
 * [bookdown: Authoring Books and Technical ](https://bookdown.org/yihui/bookdown/) - Documents with R Markdown.
 * [Geocomputation with R](https://geocompr.robinlovelace.net/) - Geocomputation with R.
 * [knitr](https://yihui.name/knitr/) - knitr: elegant, flexible, and fast dynamic report generation with R.
