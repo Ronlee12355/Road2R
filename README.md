@@ -251,3 +251,6 @@ Collaboration and pull requests are always welcomed!
 * [datascience-box](https://github.com/rstudio-education/datascience-box) - Data Science Course in a Box.
 * [R語言翻轉教室](http://www.datascienceandr.org) - 全中文R語言互動式教材.
 * [Statistical Rethinking with brms ggplot2 and the tidyverse](https://bookdown.org/connect/#/apps/1850/access) - Statistical Rethinking with brms, ggplot2, and the tidyverse.  
+* [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - a curated list of R tutorials for Data Science, NLP and Machine Learning. 
+* [MLwR](https://github.com/dataspelunking/MLwR) - Machine Learning with R. 
+* [ml-course-r](https://github.com/faridcher/ml-course-r) - R code for the assignments of Ng's Coursera machine learning course.  
