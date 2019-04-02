@@ -56,6 +56,7 @@ Collaboration and pull requests are always welcomed!
 * [xml2](https://github.com/hadley/xml2/) - Parse XML.
 * [lobstr](https://lobstr.r-lib.org) - lobstr provides tools in the same vein as str(), which allow you to dig into the detail of an object.
 * [reticulate](https://github.com/rstudio/reticulate) - Interface to 'Python'.
+* [moderndive](https://github.com/moderndive/moderndive) - An R package of datasets and wrapper functions for tidyverse-friendly introductory linear regression.  
 
 
 ### Visualization
@@ -180,6 +181,9 @@ Collaboration and pull requests are always welcomed!
 * [mlr](https://github.com/mlr-org/mlr) - Machine Learning in R.
 * [ggpomological](https://github.com/gadenbuie/ggpomological) - Pomological Colors.
 * [visdat](https://github.com/ropensci/visdat) - Preliminary Exploratory Visualisation of Data.
+* [lares](https://github.com/laresbernardo/lares) - R Package for Analytics and Machine Learning.  
+* [mlr3](https://github.com/mlr-org/mlr3) - A clean, object-oriented rewrite of mlr.  
+* [mlrCPO](https://github.com/mlr-org/mlrCPO) - Composable Preprocessing Operators for MLR. 
 
 
 ### Time series
@@ -245,3 +249,4 @@ Collaboration and pull requests are always welcomed!
 * [Data Science in Education Book](https://github.com/data-edu/data-science-in-education) - Book on data science (or data analysis) in education using R.
 * [datascience-box](https://github.com/rstudio-education/datascience-box) - Data Science Course in a Box.
 * [R語言翻轉教室](http://www.datascienceandr.org) - 全中文R語言互動式教材.
+* [Statistical Rethinking with brms ggplot2 and the tidyverse](https://bookdown.org/connect/#/apps/1850/access) - Statistical Rethinking with brms, ggplot2, and the tidyverse.  
