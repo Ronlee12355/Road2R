@@ -213,6 +213,7 @@ Collaboration and pull requests are always welcomed!
 * [RStudio Server Open Source](https://www.rstudio.com/products/rstudio/#Server) - server IDE.
 * [Anaconda](https://www.anaconda.com) - The World's Most Popular Python/R Data Science Platform.
 * [Visual Studio Code](https://code.visualstudio.com) - Open source code editor.
+* [goodpractice](https://github.com/MangoTheCat/goodpractice) - Advice on R Package Building.  
 
 
 ### Online blogs
