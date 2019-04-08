@@ -30,6 +30,7 @@ Collaboration and pull requests are always welcomed!
 		- [Development in R](#development-in-r)
 	- [Online blogs](#online-blogs)
 	- [Learning materials](#learning-materials)
+	- [Cheatsheet](#cheatsheet)
 	
 ### Data manipulation
 *Packages that enable you to manipulate data*
@@ -254,3 +255,26 @@ Collaboration and pull requests are always welcomed!
 * [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - a curated list of R tutorials for Data Science, NLP and Machine Learning. 
 * [MLwR](https://github.com/dataspelunking/MLwR) - Machine Learning with R. 
 * [ml-course-r](https://github.com/faridcher/ml-course-r) - R code for the assignments of Ng's Coursera machine learning course.  
+
+
+
+
+### Cheatsheets
+*Cheatsheets of Rstudio packages*
+
+* [RStudio IDE Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf) - RStudio IDE Cheat Sheet.  
+* [R Markdown Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf) - R Markdown Cheat Sheet.
+* [Shiny](https://github.com/rstudio/cheatsheets/raw/master/shiny.pdf) - Shiny Cheat Sheet. 
+* [Package Development Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/package-development.pdf) - Package Development Cheat Sheet.  
+* [Data Import Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf) - Data Import Cheat Sheet. 
+* [Data Transformation Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf) - Data Transformation Cheat Sheet(dplyr). 
+* [Data Visualization Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf) - Data Visualization Cheat Sheet with ggplot2.  
+* [Apply Functions Cheat Sheet with purrr](https://github.com/rstudio/cheatsheets/raw/master/purrr.pdf) - Apply Functions Cheat Sheet.
+* [Deep Learning with Keras Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/keras.pdf) - Deep Learning with Keras Cheat Sheet. 
+* [Sparklyr Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/sparklyr.pdf) - Sparklyr Cheat Sheet.
+* [Work with Strings](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf) - Work with Strings Cheat Sheet.
+* [Dates and times with lubridate](https://github.com/rstudio/cheatsheets/raw/master/lubridate.pdf) - Dates and Times Cheat Sheet.
+* [Advanced R](https://www.rstudio.com/wp-content/uploads/2016/02/advancedR.pdf) - Advanced R.
+* [Caret](https://github.com/rstudio/cheatsheets/raw/master/caret.pdf) - Caret.
+* [data.table](https://github.com/rstudio/cheatsheets/raw/master/datatable.pdf) - data.table.
+* [Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf) - Base R.
