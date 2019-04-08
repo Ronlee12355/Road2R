@@ -259,7 +259,7 @@ Collaboration and pull requests are always welcomed!
 
 
 
-### Cheatsheets
+### Cheatsheet
 *Cheatsheets of Rstudio packages*
 
 * [RStudio IDE Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf) - RStudio IDE Cheat Sheet.  
