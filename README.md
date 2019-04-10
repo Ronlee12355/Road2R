@@ -255,6 +255,7 @@ Collaboration and pull requests are always welcomed!
 * [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - a curated list of R tutorials for Data Science, NLP and Machine Learning. 
 * [MLwR](https://github.com/dataspelunking/MLwR) - Machine Learning with R. 
 * [ml-course-r](https://github.com/faridcher/ml-course-r) - R code for the assignments of Ng's Coursera machine learning course.  
+* [Book on data science (or data analysis) in education using R](https://github.com/data-edu/data-science-in-education) - Book on data science (or data analysis) in education using R.  
 
 
 
@@ -274,7 +275,19 @@ Collaboration and pull requests are always welcomed!
 * [Sparklyr Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/sparklyr.pdf) - Sparklyr Cheat Sheet.
 * [Work with Strings](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf) - Work with Strings Cheat Sheet.
 * [Dates and times with lubridate](https://github.com/rstudio/cheatsheets/raw/master/lubridate.pdf) - Dates and Times Cheat Sheet.
-* [Advanced R](https://www.rstudio.com/wp-content/uploads/2016/02/advancedR.pdf) - Advanced R.
-* [Caret](https://github.com/rstudio/cheatsheets/raw/master/caret.pdf) - Caret.
-* [data.table](https://github.com/rstudio/cheatsheets/raw/master/datatable.pdf) - data.table.
+* [Advanced R](https://www.rstudio.com/wp-content/uploads/2016/02/advancedR.pdf) - Environments, data Structures, Functions, Subsetting and more by Arianne Colton and Sean Chen.
+* [Caret](https://github.com/rstudio/cheatsheets/raw/master/caret.pdf) - Modeling and Machine Learning in R with the caret package by Max Kuhn. 
+* [data.table](https://github.com/rstudio/cheatsheets/raw/master/datatable.pdf) - Data manipulation with data.table, cheatsheet by  Erik Petrovski.
 * [Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf) - Base R.
+* [cartography](https://github.com/rstudio/cheatsheets/raw/master/cartography.pdf) - Thematic maps with spatial objects by Timothée Giraud. 
+* [estimatr](https://github.com/rstudio/cheatsheets/raw/master/estimatr.pdf) - Fast, robust estimators for common models. 
+* [eurostat](https://github.com/rstudio/cheatsheets/raw/master/eurostat.pdf) - R tools to access the eurostat database, by rOpenGov. 
+* [h2o](https://github.com/rstudio/cheatsheets/raw/master/h2o.pdf) - The R interface to h20’s algorithms for big data and parallel computing.
+* [How big is your graph?](https://github.com/rstudio/cheatsheets/raw/master/how-big-is-your-graph.pdf) - Graph sizing with base R.
+* [LaTeX](https://wch.github.io/latexsheet/) - A reference to the LaTeX typesetting language, useful in combination with knitr and R Markdown.
+* [leaflet](https://github.com/rstudio/cheatsheets/raw/master/leaflet.pdf) - Interactive maps in R with leaflet, by Kejia Shi. 
+* [Machine Learning Modelling](https://github.com/rstudio/cheatsheets/raw/master/Machine%20Learning%20Modelling%20in%20R.pdf) - A tabular guide to machine learning algorithms in R, by Arnaud Amsellem.
+* [mlr](https://github.com/rstudio/cheatsheets/raw/master/mlr.pdf) - The mlr package offers a unified interface to R’s machine learning capabilities.
+* [Mosaic](https://github.com/mlaviolet/Mosaic-cheatsheets/raw/master/mosaic-cheatsheet-gf.pdf) - The mosaic package is for teaching mathematics, statistics, computation and modeling. 
+* [nardl](https://github.com/rstudio/cheatsheets/raw/master/nardl.pdf) - The nardl package estimates the nonlinear cointegrating autoregressive distributed lag model.
+* [xplain](https://github.com/rstudio/cheatsheets/raw/master/xplain.pdf) - Explain statistical functions with XML files and xplain. 
