@@ -291,3 +291,12 @@ Collaboration and pull requests are always welcomed!
 * [Mosaic](https://github.com/mlaviolet/Mosaic-cheatsheets/raw/master/mosaic-cheatsheet-gf.pdf) - The mosaic package is for teaching mathematics, statistics, computation and modeling. 
 * [nardl](https://github.com/rstudio/cheatsheets/raw/master/nardl.pdf) - The nardl package estimates the nonlinear cointegrating autoregressive distributed lag model.
 * [xplain](https://github.com/rstudio/cheatsheets/raw/master/xplain.pdf) - Explain statistical functions with XML files and xplain. 
+* [Parallel Computation](https://github.com/rstudio/cheatsheets/raw/master/parallel_computation.pdf) - Parallel computing in R with the parallel, foreach, and future packages. By Ardalan Mirshani. 
+* [quanteda](https://github.com/rstudio/cheatsheets/raw/master/quanteda.pdf) - Quantitative Analysis of Textual Data in R with the quanteda package by Stefan Müller and Kenneth Benoit. 
+* [randomizr](https://github.com/rstudio/cheatsheets/raw/master/randomizr.pdf) - Automate random assignment and sampling with randomizr. By Alex Coppock. 
+* [Regular Expressions](https://github.com/rstudio/cheatsheets/raw/master/regex.pdf) - Basics of regular expressions and pattern matching in R by Ian Kopacka.
+* [Simple Features (sf)](https://github.com/rstudio/cheatsheets/raw/master/sf.pdf) - Tools for working with spatial vector data: points, lines, polygons, etc. Cheatsheet by Ryan Garnett. 
+* [sjmisc](http://github.com/rstudio/cheatsheets/raw/master/sjmisc.pdf) - dplyr friendly Data and Variable Transformation, by Daniel Lüdecke.
+* [survminer](https://github.com/rstudio/cheatsheets/raw/master/survminer.pdf) - Elegant survival plots, by Przemyslaw Biecek. 
+* [Syntax Comparison](https://github.com/rstudio/cheatsheets/raw/master/syntax.pdf) - Three code styles compared: $, formula, and tidyverse. By Amelia McNamara.
+* [Teach R](https://github.com/rstudio/cheatsheets/raw/master/teachR.pdf) - Concise advice on how to teach R or anything else. By Adi Sarid.
