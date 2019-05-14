@@ -193,6 +193,7 @@ Collaboration and pull requests are always welcomed!
 * [xts](https://github.com/joshuaulrich/xts) - eXtensible Time Series.
 * [forecast](https://github.com/robjhyndman/forecast) - Forecasting Functions for Time Series and Linear Models.
 * [zoo](http://zoo.R-Forge.R-project.org/) - S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations).
+* [tsfeatures](https://github.com/robjhyndman/tsfeatures) - The R package tsfeatures provides methods for extracting various features from time series data.
 
 
 ### Markdown
