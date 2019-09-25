@@ -257,6 +257,7 @@ Collaboration and pull requests are always welcomed!
 * [MLwR](https://github.com/dataspelunking/MLwR) - Machine Learning with R. 
 * [ml-course-r](https://github.com/faridcher/ml-course-r) - R code for the assignments of Ng's Coursera machine learning course.  
 * [Book on data science (or data analysis) in education using R](https://github.com/data-edu/data-science-in-education) - Book on data science (or data analysis) in education using R.  
+* [R Workshops for Beginners](https://github.com/Jiaying-Wu/R-Workshops-for-Beginners) - No programming experience required!
 
 
 
