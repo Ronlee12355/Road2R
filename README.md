@@ -216,6 +216,7 @@ Collaboration and pull requests are always welcomed!
 * [Anaconda](https://www.anaconda.com) - The World's Most Popular Python/R Data Science Platform.
 * [Visual Studio Code](https://code.visualstudio.com) - Open source code editor.
 * [goodpractice](https://github.com/MangoTheCat/goodpractice) - Advice on R Package Building.  
+* [usethis](https://github.com/r-lib/usethis) - Automate Package and Project Setup.
 
 
 ### Online blogs
@@ -258,6 +259,7 @@ Collaboration and pull requests are always welcomed!
 * [ml-course-r](https://github.com/faridcher/ml-course-r) - R code for the assignments of Ng's Coursera machine learning course.  
 * [Book on data science (or data analysis) in education using R](https://github.com/data-edu/data-science-in-education) - Book on data science (or data analysis) in education using R.  
 * [R Workshops for Beginners](https://github.com/Jiaying-Wu/R-Workshops-for-Beginners) - No programming experience required!
+* [Shiny Tutorial in Chinese](http://yanping.me/shiny-tutorial/) - Shiny中文教程.
 
 
 
