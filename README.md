@@ -31,6 +31,7 @@ Collaboration and pull requests are always welcomed!
 	- [Online blogs](#online-blogs)
 	- [Learning materials](#learning-materials)
 	- [Cheatsheet](#cheatsheet)
+	- [Shiny](#shiny)
 	
 ### Data manipulation
 *Packages that enable you to manipulate data*
@@ -304,3 +305,19 @@ Collaboration and pull requests are always welcomed!
 * [survminer](https://github.com/rstudio/cheatsheets/raw/master/survminer.pdf) - Elegant survival plots, by Przemyslaw Biecek. 
 * [Syntax Comparison](https://github.com/rstudio/cheatsheets/raw/master/syntax.pdf) - Three code styles compared: $, formula, and tidyverse. By Amelia McNamara.
 * [Teach R](https://github.com/rstudio/cheatsheets/raw/master/teachR.pdf) - Concise advice on how to teach R or anything else. By Adi Sarid.
+
+### Shiny    
+*Shiny Applications Development Materials*   
+
+* [Shiny](https://github.com/rstudio/shiny) - Web Application Framework for R.
+* [Shiny Tutorials](http://shiny.rstudio.com/tutorial/) - Shiny Tutorials.  
+* [shinyAce](https://github.com/trestletech/shinyAce) - Ace editor bindings to enable a rich text editing environment within Shiny.  
+* [shinyBS](https://github.com/ebailey78/shinyBS) - Twitter Bootstrap Components for Shiny.  
+* [shinydashboard](http://rstudio.github.io/shinydashboard/) - Create Dashboards with 'Shiny'.  
+* [shinyjs](https://deanattali.com/shinyjs) - Easily Improve the User Experience of Your Shiny Apps in Seconds.  
+* [Shiny Developer Conference](https://resources.rstudio.com/shiny-developer-conference) - Shiny Developer Conference.  
+* [ShinyTrials](https://github.com/Ronlee12355/ShinyTrials) - Shiny applications with shiny & shinydashboard.  
+* [shiny.io](https://www.shinyapps.io/) - Share your Shiny Applications Online.  
+* [Shiny Applications Examples](http://shiny.rstudio.com/gallery) - Examples of interactive web apps using shiny.  
+* [shiny server](https://github.com/rstudio/shiny-server) - Host Shiny applications over the web.   
+* [Mastering Shiny](https://mastering-shiny.org/) - Mastering Shiny: a book.
