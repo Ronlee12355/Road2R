@@ -260,7 +260,8 @@ Collaboration and pull requests are always welcomed!
 * [ml-course-r](https://github.com/faridcher/ml-course-r) - R code for the assignments of Ng's Coursera machine learning course.  
 * [Book on data science (or data analysis) in education using R](https://github.com/data-edu/data-science-in-education) - Book on data science (or data analysis) in education using R.  
 * [R Workshops for Beginners](https://github.com/Jiaying-Wu/R-Workshops-for-Beginners) - No programming experience required!
-* [Shiny Tutorial in Chinese](http://yanping.me/shiny-tutorial/) - Shiny中文教程.
+* [Shiny Tutorial in Chinese](http://yanping.me/shiny-tutorial/) - Shiny中文教程.  
+* [R语言教程](http://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html) - R Tutorial From Peking University (Mandarin Chinese).  
 
 
 
