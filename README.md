@@ -305,7 +305,8 @@ Collaboration and pull requests are always welcomed!
 * [sjmisc](http://github.com/rstudio/cheatsheets/raw/master/sjmisc.pdf) - dplyr friendly Data and Variable Transformation, by Daniel Lüdecke.
 * [survminer](https://github.com/rstudio/cheatsheets/raw/master/survminer.pdf) - Elegant survival plots, by Przemyslaw Biecek. 
 * [Syntax Comparison](https://github.com/rstudio/cheatsheets/raw/master/syntax.pdf) - Three code styles compared: $, formula, and tidyverse. By Amelia McNamara.
-* [Teach R](https://github.com/rstudio/cheatsheets/raw/master/teachR.pdf) - Concise advice on how to teach R or anything else. By Adi Sarid.
+* [Teach R](https://github.com/rstudio/cheatsheets/raw/master/teachR.pdf) - Concise advice on how to teach R or anything else. By Adi Sarid.  
+* [Tidy evaluation](https://tidyeval.tidyverse.org/) - This guide is now superseded by more recent efforts at documenting tidy evaluation in a user-friendly way.  
 
 ### Shiny    
 *Shiny Applications Development Materials*   
