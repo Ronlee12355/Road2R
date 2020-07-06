@@ -262,6 +262,7 @@ Collaboration and pull requests are always welcomed!
 * [R Workshops for Beginners](https://github.com/Jiaying-Wu/R-Workshops-for-Beginners) - No programming experience required!
 * [Shiny Tutorial in Chinese](http://yanping.me/shiny-tutorial/) - Shiny中文教程.  
 * [R语言教程](http://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html) - R Tutorial From Peking University (Mandarin Chinese).  
+* [Tidy evaluation](https://tidyeval.tidyverse.org/) - This guide is now superseded by more recent efforts at documenting tidy evaluation in a user-friendly way.  
 
 
 
@@ -306,7 +307,6 @@ Collaboration and pull requests are always welcomed!
 * [survminer](https://github.com/rstudio/cheatsheets/raw/master/survminer.pdf) - Elegant survival plots, by Przemyslaw Biecek. 
 * [Syntax Comparison](https://github.com/rstudio/cheatsheets/raw/master/syntax.pdf) - Three code styles compared: $, formula, and tidyverse. By Amelia McNamara.
 * [Teach R](https://github.com/rstudio/cheatsheets/raw/master/teachR.pdf) - Concise advice on how to teach R or anything else. By Adi Sarid.  
-* [Tidy evaluation](https://tidyeval.tidyverse.org/) - This guide is now superseded by more recent efforts at documenting tidy evaluation in a user-friendly way.  
 
 ### Shiny    
 *Shiny Applications Development Materials*   
