@@ -94,6 +94,7 @@ Collaboration and pull requests are always welcomed!
 * [pROC](http://expasy.org/tools/pROC/) - Display and Analyze ROC Curves.
 * [ggstance](https://github.com/lionel-/ggstance) - Horizontal versions of common plots.
 * [ggExtra](https://github.com/daattali/ggExtra) - Marginal histograms for a plot.
+* [patchwork](https://github.com/thomasp85/patchwork/) - Simple to combine separate ggplots into the same graphic.
 
 
 ### Import Data
@@ -323,3 +324,4 @@ Collaboration and pull requests are always welcomed!
 * [Shiny Applications Examples](http://shiny.rstudio.com/gallery) - Examples of interactive web apps using shiny.  
 * [shiny server](https://github.com/rstudio/shiny-server) - Host Shiny applications over the web.   
 * [Mastering Shiny](https://mastering-shiny.org/) - Mastering Shiny: a book.
+* [Awesome Shiny Extensions](https://github.com/nanxstats/awesome-shiny-extensions) - Awesome Shiny Extensions.
