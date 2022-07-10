@@ -15,11 +15,14 @@ Collaboration and pull requests are always welcomed!
 !['workflow of text mining'](tidyflow.png)
 
 ## Table of Contents
-- [Road2R](#Road2R)
-	- [Package collection](#data-manipulation)
+- [Road2R](#road2r)
+	- [Contributing Information](#contributing-information)
+	- [Workflow for Data Science](#workflow-for-data-science)
+	- [Workflow of Text Mining](#workflow-of-text-mining)
+	- [Table of Contents](#table-of-contents)
 		- [Data manipulation](#data-manipulation)
 		- [Visualization](#visualization)
-		- [Import data](#import-data)
+		- [Import Data](#import-data)
 		- [Network graph](#network-graph)
 		- [Interactive Graphics](#interactive-graphics)
 		- [Word cloud](#word-cloud)
@@ -28,10 +31,11 @@ Collaboration and pull requests are always welcomed!
 		- [Time series](#time-series)
 		- [Markdown](#markdown)
 		- [Development in R](#development-in-r)
-	- [Online blogs](#online-blogs)
-	- [Learning materials](#learning-materials)
-	- [Cheatsheet](#cheatsheet)
-	- [Shiny](#shiny)
+		- [Online blogs](#online-blogs)
+		- [Learning materials](#learning-materials)
+		- [Cheatsheet](#cheatsheet)
+		- [Shiny](#shiny)
+		- [Bioinformatics](#bioinformatics)
 	
 ### Data manipulation
 *Packages that enable you to manipulate data*
@@ -230,6 +234,7 @@ Collaboration and pull requests are always welcomed!
 * [RWeekly](https://rweekly.org) - Weekly Updates from the Entire R Community.
 * [RDocumentation](https://www.rdocumentation.org) - Search all 16,944 CRAN, Bioconductor and GitHub packages.
 * [Rstudio Community](https://community.rstudio.com) - The Rstudio Community.
+* [生信爱好者周刊](https://github.com/ShixiangWang/weekly) - 生信爱好者周刊，Weekly of bioinformatics lovers.
 
 
 ### Learning materials
@@ -325,3 +330,12 @@ Collaboration and pull requests are always welcomed!
 * [shiny server](https://github.com/rstudio/shiny-server) - Host Shiny applications over the web.   
 * [Mastering Shiny](https://mastering-shiny.org/) - Mastering Shiny: a book.
 * [Awesome Shiny Extensions](https://github.com/nanxstats/awesome-shiny-extensions) - Awesome Shiny Extensions.
+
+### Bioinformatics
+*Bioinformatics Tools Implemented in R*
+
+* [CMSclassifier](https://github.com/Sage-Bionetworks/CMSclassifier) - An R package and an example data set are provided to run the CMSclassifier.
+* [CMScaller](https://github.com/peterawe/CMScaller) - an R package for consensus molecular subtyping of colorectal cancer pre-clinical models.  
+* [genefu](https://github.com/bhklab/genefu) - R package providing various functions relevant for gene expression analysis with emphasis on breast and ovarian cancers.  
+* [CancerSubtypes](http://bioconductor.org/packages/release/bioc/html/CancerSubtypes.html) - Cancer subtypes identification, validation and visualization based on multiple genomic data sets. 
+* [consensusOV](https://bioconductor.org/packages/release/bioc/html/consensusOV.html) - Gene expression-based subtype classification for high-grade serous ovarian cancer.  
