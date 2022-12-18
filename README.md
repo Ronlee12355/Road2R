@@ -339,3 +339,12 @@ Collaboration and pull requests are always welcomed!
 * [genefu](https://github.com/bhklab/genefu) - R package providing various functions relevant for gene expression analysis with emphasis on breast and ovarian cancers.  
 * [CancerSubtypes](http://bioconductor.org/packages/release/bioc/html/CancerSubtypes.html) - Cancer subtypes identification, validation and visualization based on multiple genomic data sets. 
 * [consensusOV](https://bioconductor.org/packages/release/bioc/html/consensusOV.html) - Gene expression-based subtype classification for high-grade serous ovarian cancer.  
+* [ConsensusClusterPlus](https://bioconductor.org/packages/release/bioc/html/ConsensusClusterPlus.html) - ConsensusClusterPlus: a class discovery tool with confidence assessments and item tracking.    
+* [WGCNA](http://www.genetics.ucla.edu/labs/horvath/CoexpressionNetwork/Rpackages/WGCNA) - WGCNA: an R package for weighted correlation network analysis.     
+* [ImmuLncRNA](http://bio-bigdata.hrbmu.edu.cn/ImmLnc/jt-download.jsp) - The R package 'ImmulancRNA' contains 3 method which can caculate the tumor purity, partial correlation coefficient and identify the lncRNA-pathway pairs.    
+* [randomForestSRC](https://www.randomforestsrc.org/articles/getstarted.html) - R-package for random forest analysis of regression, classification, survival and more.     
+* [plsRcox](https://github.com/fbertran/plsRcox/) - Partial Least Squares Regression for Cox Models and Related Techniques.   
+* [superpc](https://cran.r-project.org/web/packages/superpc/index.html) - Supervised Principal Components.   
+* [CoxBoost](http://cran.nexr.com/web/packages/CoxBoost/index.html) - Cox models by likelihood based boosting for a single survival endpoint or competing risks.     
+* [survivalsvm](https://cran.rstudio.com/web/packages/survivalsvm/index.html) - Survival Support Vector Analysis.   
+* [GSVA](https://bioconductor.org/packages/release/bioc/html/GSVA.html) - Gene Set Variation Analysis for microarray and RNA-seq data.   
