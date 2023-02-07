@@ -352,3 +352,5 @@ Collaboration and pull requests are always welcomed!
 * [CoxBoost](http://cran.nexr.com/web/packages/CoxBoost/index.html) - Cox models by likelihood based boosting for a single survival endpoint or competing risks.     
 * [survivalsvm](https://cran.rstudio.com/web/packages/survivalsvm/index.html) - Survival Support Vector Analysis.   
 * [GSVA](https://bioconductor.org/packages/release/bioc/html/GSVA.html) - Gene Set Variation Analysis for microarray and RNA-seq data.   
+* [isomiRseeker](https://github.com/amanzju/MDEHT/tree/master/isomiRseeker) - Detect miRNA isoforms from small RNA-seq data.   
+* [TCGAbiolinks](https://github.com/BioinformaticsFMRP/TCGAbiolinks) - TCGAbiolinks - An R/Bioconductor package for integrative analysis with TCGA data.   
