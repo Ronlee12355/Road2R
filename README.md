@@ -272,8 +272,8 @@ Collaboration and pull requests are always welcomed!
 * [R Workshops for Beginners](https://github.com/Jiaying-Wu/R-Workshops-for-Beginners) - No programming experience required!
 * [Shiny Tutorial in Chinese](http://yanping.me/shiny-tutorial/) - Shiny中文教程.  
 * [R语言教程](http://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html) - R Tutorial From Peking University (Mandarin Chinese).  
-* [Tidy evaluation](https://tidyeval.tidyverse.org/) - This guide is now superseded by more recent efforts at documenting tidy evaluation in a user-friendly way.  
-
+* [Tidy evaluation](https://tidyeval.tidyverse.org/) - This guide is now superseded by more recent efforts at documenting tidy evaluation in a user-friendly way.   
+* [DIYtranscriptomics](https://vimeo.com/showcase/6565319) - A full course on the analysis of RNA-seq data using R programming environment and the Bioconductor suite of software packages – a versatile and robust collection of tools for bioinformatics, statistics, and plotting.   
 
 
 
