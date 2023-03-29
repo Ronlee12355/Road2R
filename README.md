@@ -5,8 +5,8 @@ A curated list of amazingly awesome R libraries, resources and package collectio
 !['R logo'](Rlogonew.png)
 
 ## Contributing Information
-Please see [author's details](https://github.com/Ronlee12355) and author's [personal website](http://www.ronleecww.cn)!   
-Collaboration and pull requests are always welcomed!   
+Please see [author's details](https://github.com/Ronlee12355).  
+Collaboration and pull requests are always welcomed!    
 
 ## Workflow for Data Science
 !['workflow of data science'](data-science.png)
@@ -211,7 +211,8 @@ Collaboration and pull requests are always welcomed!
 
 * [rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R.
 * [rsconnect](https://cran.r-project.org/package=rsconnect) - Deployment Interface for R Markdown Documents and Shiny Applications.
-* [knit](https://yihui.name/knitr/) - A General-Purpose Package for Dynamic Report Generation in R.
+* [knit](https://yihui.name/knitr/) - A General-Purpose Package for Dynamic Report Generation in R.   
+* [tinytex](https://github.com/rstudio/tinytex) - tinytex: Helper Functions to Install and Maintain TeX Live, and Compile LaTeX Documents.   
 
 ### Development in R
 *packages that enable you to develop your own project*
@@ -354,3 +355,5 @@ Collaboration and pull requests are always welcomed!
 * [GSVA](https://bioconductor.org/packages/release/bioc/html/GSVA.html) - Gene Set Variation Analysis for microarray and RNA-seq data.   
 * [isomiRseeker](https://github.com/amanzju/MDEHT/tree/master/isomiRseeker) - Detect miRNA isoforms from small RNA-seq data.   
 * [TCGAbiolinks](https://github.com/BioinformaticsFMRP/TCGAbiolinks) - TCGAbiolinks - An R/Bioconductor package for integrative analysis with TCGA data.   
+* [clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler) - clusterProfiler: an R package for comparing biological themes among gene clusters.    
+* [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html) - glmnet: Lasso and Elastic-Net Regularized Generalized Linear Models.     
