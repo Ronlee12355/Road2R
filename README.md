@@ -358,4 +358,4 @@ Collaboration and pull requests are always welcomed!
 * [clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler) - clusterProfiler: an R package for comparing biological themes among gene clusters.    
 * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html) - glmnet: Lasso and Elastic-Net Regularized Generalized Linear Models.     
 * [OmicCircos](https://bioconductor.org/packages/release/bioc/html/OmicCircos.html) - an R application and package for generating high-quality circular plots for omics data.   
-* (maftools)(https://github.com/PoisonAlien/maftools) - maftools - An R package to summarize, analyze and visualize MAF files.   
+* [maftools](https://github.com/PoisonAlien/maftools) - maftools - An R package to summarize, analyze and visualize MAF files.   
