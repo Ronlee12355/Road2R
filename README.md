@@ -359,3 +359,6 @@ Collaboration and pull requests are always welcomed!
 * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html) - glmnet: Lasso and Elastic-Net Regularized Generalized Linear Models.     
 * [OmicCircos](https://bioconductor.org/packages/release/bioc/html/OmicCircos.html) - an R application and package for generating high-quality circular plots for omics data.   
 * [maftools](https://github.com/PoisonAlien/maftools) - maftools - An R package to summarize, analyze and visualize MAF files.   
+* [RTN](https://bioconductor.org/packages/release/bioc/html/RTN.html) - RTN: Reconstruction of Transcriptional regulatory Networks and analysis of regulons.    
+* [RedeR](https://bioconductor.org/packages/release/bioc/html/RedeR.html) - Interactive visualization and manipulation of nested networks.    
+* [GCclassifier](https://github.com/Ronlee12355/GCclassifier) - GCclassifier: an R package for the prediction of molecular subtypes of gastric cancer.     
