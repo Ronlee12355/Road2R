@@ -17,12 +17,16 @@ Collaboration and pull requests are always welcomed!
 ## Workflow of R Package Development
 !['workflow of R package development'](package_workflow.png)
 
+## Workflow of Typical Modeling Process
+!['workflow of modeling'](modeling-process.png)
+
 ## Table of Contents
 - [Road2R](#road2r)
 	- [Contributing Information](#contributing-information)
 	- [Workflow for Data Science](#workflow-for-data-science)
 	- [Workflow of Text Mining](#workflow-of-text-mining)
 	- [Workflow of R Package Development](#workflow-of-r-package-development)
+	- [Workflow of Typical Modeling Process](#workflow-of-typical-modeling-process)
 	- [Table of Contents](#table-of-contents)
 		- [Data manipulation](#data-manipulation)
 		- [Visualization](#visualization)
