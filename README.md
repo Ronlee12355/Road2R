@@ -367,3 +367,4 @@ Collaboration and pull requests are always welcomed!
 * [RedeR](https://bioconductor.org/packages/release/bioc/html/RedeR.html) - Interactive visualization and manipulation of nested networks.    
 * [GCclassifier](https://github.com/Ronlee12355/GCclassifier) - GCclassifier: an R package for the prediction of molecular subtypes of gastric cancer.   
 * [immunedeconv](https://github.com/omnideconv/immunedeconv) - an R package for unified access to computational methods for estimating immune cell fractions from bulk RNA sequencing data.     
+* [NbClust](https://cran.r-project.org/web/packages/NbClust/index.html) - NbClust: An R Package for Determining the Relevant Number of Clusters in a Data Set.   
