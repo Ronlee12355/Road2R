@@ -44,7 +44,8 @@ Collaboration and pull requests are always welcomed!
 		- [Cheatsheet](#cheatsheet)
 		- [Shiny](#shiny)
 		- [Bioinformatics](#bioinformatics)
-	
+		- [Single-cell](#single-cell)
+
 ### Data manipulation
 *Packages that enable you to manipulate data*
 
@@ -371,3 +372,9 @@ Collaboration and pull requests are always welcomed!
 * [BLCAsubtyping](https://github.com/cit-bioinfo/BLCAsubtyping) - Transcriptomic tools to classify bladder tumours according to six published molecular classifications.   
 * [consensusMIBC](https://github.com/cit-bioinfo/consensusMIBC) - This package implements a nearest-centroid transcriptomic classifier, that assigns class labels according to the consensus molecular classification of Muscle-Invasive Bladder Cancer (Manuscript submitted). The consensus classification identifies 6 molecular classes : Luminal Papillary (LumP), Luminal Non Specified (LumNS), Luminal Unstable (LumU), Stroma-rich, Basal/Squamous (Ba/Sq), Neuroendocrine-like (NE-like).   
 * [classifyNMIBC](https://github.com/sialindskrog/classifyNMIBC) - This package implements a Pearson nearest-centroid classifier that assigns class labels to single samples according to the four transcriptomic UROMOL2021 classes of non-muscle-invasive bladder cancer (NMIBC): class 1, class 2a, class 2b and class 3.   
+
+
+### Single-cell
+*Singl-cell RNA-seq & ATAC in R*
+* [Signac](https://github.com/stuart-lab/signac/) - Signac is a comprehensive R package for the analysis of single-cell chromatin data. Signac includes functions for quality control, normalization, dimension reduction, clustering, differential activity, and more.   
+* [Seurat](https://github.com/satijalab/seurat) - Seurat is an R toolkit for single cell genomics, developed and maintained by the Satija Lab at NYGC.   
