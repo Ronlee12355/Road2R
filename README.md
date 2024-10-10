@@ -380,3 +380,7 @@ Collaboration and pull requests are always welcomed!
 *Singl-cell RNA-seq & ATAC in R*
 * [Signac](https://github.com/stuart-lab/signac/) - Signac is a comprehensive R package for the analysis of single-cell chromatin data. Signac includes functions for quality control, normalization, dimension reduction, clustering, differential activity, and more.   
 * [Seurat](https://github.com/satijalab/seurat) - Seurat is an R toolkit for single cell genomics, developed and maintained by the Satija Lab at NYGC.   
+* [ccRemover](https://cran.r-project.org/web/packages/ccRemover/index.html) - Removes the Cell-Cycle Effect from Single-Cell RNA-Sequencing Data.   
+* [cellTree](https://www.bioconductor.org/packages/3.3/bioc/html/cellTree.html) - Cell population analysis and visualization from single cell RNA-seq data using a Latent Dirichlet Allocation model.   
+* [SingleR](https://bioconductor.org/packages/release/bioc/html/SingleR.html) - Reference-Based Single-Cell RNA-Seq Annotation.   
+* [CellChat](https://github.com/sqjin/CellChat) - CellChat is an R package designed for inference, analysis, and visualization of cell-cell communication from single-cell data. CellChat aims to enable users to identify and interpret cell-cell communication within an easily interpretable framework, with the emphasis of clear, attractive, and interpretable visualizations.   
