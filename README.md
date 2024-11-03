@@ -384,3 +384,4 @@ Collaboration and pull requests are always welcomed!
 * [cellTree](https://www.bioconductor.org/packages/3.3/bioc/html/cellTree.html) - Cell population analysis and visualization from single cell RNA-seq data using a Latent Dirichlet Allocation model.   
 * [SingleR](https://bioconductor.org/packages/release/bioc/html/SingleR.html) - Reference-Based Single-Cell RNA-Seq Annotation.   
 * [CellChat](https://github.com/sqjin/CellChat) - CellChat is an R package designed for inference, analysis, and visualization of cell-cell communication from single-cell data. CellChat aims to enable users to identify and interpret cell-cell communication within an easily interpretable framework, with the emphasis of clear, attractive, and interpretable visualizations.   
+* [Harmony](https://github.com/immunogenomics/harmony) - Fast, sensitive and accurate integration of single-cell data with Harmony.   
