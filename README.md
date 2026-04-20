@@ -108,7 +108,8 @@ Collaboration and pull requests are always welcomed!
 * [ggstance](https://github.com/lionel-/ggstance) - Horizontal versions of common plots.
 * [ggExtra](https://github.com/daattali/ggExtra) - Marginal histograms for a plot.
 * [patchwork](https://github.com/thomasp85/patchwork/) - Simple to combine separate ggplots into the same graphic.
-
+* [simplifyEnrichment](https://github.com/jokergoo/simplifyEnrichment/) - simplifyEnrichment: an R/Bioconductor package for Clustering and Visualizing Functional Enrichment Results.   
+* [spiralize](https://github.com/jokergoo/spiralize) - spiralize: an R package for visualizing data on spirals.   
 
 ### Import Data
 *Packages that enable you to import, load and save data*
