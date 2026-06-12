@@ -110,6 +110,7 @@ Collaboration and pull requests are always welcomed!
 * [patchwork](https://github.com/thomasp85/patchwork/) - Simple to combine separate ggplots into the same graphic.
 * [simplifyEnrichment](https://github.com/jokergoo/simplifyEnrichment/) - simplifyEnrichment: an R/Bioconductor package for Clustering and Visualizing Functional Enrichment Results.   
 * [spiralize](https://github.com/jokergoo/spiralize) - spiralize: an R package for visualizing data on spirals.   
+* [ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap) - Complex heatmaps reveal patterns and correlations in multidimensional genomic data.   
 
 ### Import Data
 *Packages that enable you to import, load and save data*
