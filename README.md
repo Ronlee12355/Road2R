@@ -333,6 +333,7 @@ Collaboration and pull requests are always welcomed!
 * [Shiny Tutorials](http://shiny.rstudio.com/tutorial/) - Shiny Tutorials.  
 * [shinyAce](https://github.com/trestletech/shinyAce) - Ace editor bindings to enable a rich text editing environment within Shiny.  
 * [shinyBS](https://github.com/ebailey78/shinyBS) - Twitter Bootstrap Components for Shiny.  
+* [shinythemes](https://github.com/rstudio/shinythemes) - Themes for Shiny.   
 * [shinydashboard](http://rstudio.github.io/shinydashboard/) - Create Dashboards with 'Shiny'.  
 * [shinyjs](https://deanattali.com/shinyjs) - Easily Improve the User Experience of Your Shiny Apps in Seconds.  
 * [Shiny Developer Conference](https://resources.rstudio.com/shiny-developer-conference) - Shiny Developer Conference.  
