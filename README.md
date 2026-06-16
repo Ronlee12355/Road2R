@@ -1,8 +1,11 @@
 # Road2R
 
-A curated list of amazingly awesome R libraries, resources and package collection.  
+Welcome to Road2R, a meticulously curated repository of R language resources. This project is designed to provide data scientists, statisticians, and R enthusiasts with a streamlined pathway to highly efficient data analysis.
+
+Beyond compiling the most popular R packages on CRAN, we have also curated comprehensive workflow diagrams for specialized fields, including data science, text mining, machine learning, and single-cell analysis. Whether you are seeking specific tools for tasks such as data wrangling, visualization, or modeling, or aiming to systematically learn the application of R in bioinformatics, this repository offers exhaustive lists and learning materials tailored to your needs.
 
 !['R logo'](Rlogonew.png)
+
 
 ## Contributing Information
 Please see [author's details](https://github.com/Ronlee12355).  
