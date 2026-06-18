@@ -392,4 +392,5 @@ Collaboration and pull requests are always welcomed!
 * [SingleR](https://bioconductor.org/packages/release/bioc/html/SingleR.html) - Reference-Based Single-Cell RNA-Seq Annotation.   
 * [CellChat](https://github.com/sqjin/CellChat) - CellChat is an R package designed for inference, analysis, and visualization of cell-cell communication from single-cell data. CellChat aims to enable users to identify and interpret cell-cell communication within an easily interpretable framework, with the emphasis of clear, attractive, and interpretable visualizations.   
 * [Harmony](https://github.com/immunogenomics/harmony) - Fast, sensitive and accurate integration of single-cell data with Harmony.   
-* [velocyto](https://velocyto.org/) - Estimating RNA velocity in single cell RNA sequencing datasets.    
+* [velocyto](https://velocyto.org/) - Estimating RNA velocity in single cell RNA sequencing datasets.   
+* [SCpubr](https://github.com/enblacar/SCpubr/) - SCpubr provides a streamlined way of generating publication ready plots for known Single-Cell visualizations in a "publication ready" format (SCpubr).    
