@@ -346,6 +346,8 @@ Collaboration and pull requests are always welcomed!
 * [shiny server](https://github.com/rstudio/shiny-server) - Host Shiny applications over the web.   
 * [Mastering Shiny](https://mastering-shiny.org/) - Mastering Shiny: a book.
 * [Awesome Shiny Extensions](https://github.com/nanxstats/awesome-shiny-extensions) - Awesome Shiny Extensions.
+* [shiny.semantic](https://github.com/Appsilon/shiny.semantic) - shiny.semantic: Semantic UI Support for Shiny.   
+* [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Implements Material Design in Shiny Applications.   
 
 ### Bioinformatics
 *Bioinformatics Tools Implemented in R*
