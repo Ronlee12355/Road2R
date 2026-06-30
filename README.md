@@ -348,6 +348,8 @@ Collaboration and pull requests are always welcomed!
 * [Awesome Shiny Extensions](https://github.com/nanxstats/awesome-shiny-extensions) - Awesome Shiny Extensions.
 * [shiny.semantic](https://github.com/Appsilon/shiny.semantic) - shiny.semantic: Semantic UI Support for Shiny.   
 * [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Implements Material Design in Shiny Applications.   
+* [shinyUIkit](https://github.com/RinteRface/shinyUIkit) - UIkit API for Shiny.   
+* [fullPage](https://github.com/RinteRface/fullPage) - Single page styles for Shiny apps.   
 
 ### Bioinformatics
 *Bioinformatics Tools Implemented in R*
