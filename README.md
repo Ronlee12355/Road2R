@@ -350,6 +350,9 @@ Collaboration and pull requests are always welcomed!
 * [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Implements Material Design in Shiny Applications.   
 * [shinyUIkit](https://github.com/RinteRface/shinyUIkit) - UIkit API for Shiny.   
 * [fullPage](https://github.com/RinteRface/fullPage) - Single page styles for Shiny apps.   
+* [shinybulma](https://github.com/RinteRface/shinybulma) - Bulma.io for Shiny.    
+* [shinyMetroUi](https://github.com/RinteRface/shinyMetroUi) - Metro 4 UI for Shiny.   
+* [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.    
 
 ### Bioinformatics
 *Bioinformatics Tools Implemented in R*
