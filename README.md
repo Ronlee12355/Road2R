@@ -338,6 +338,8 @@ Collaboration and pull requests are always welcomed!
 * [shinyBS](https://github.com/ebailey78/shinyBS) - Twitter Bootstrap Components for Shiny.  
 * [shinythemes](https://github.com/rstudio/shinythemes) - Themes for Shiny.   
 * [shinydashboard](http://rstudio.github.io/shinydashboard/) - Create Dashboards with 'Shiny'.  
+* [shinydashboardPlus](https://github.com/DivadNojnarg/shinydashboardPlus) - Shinydashboard Extension.     
+* [gentelellaShiny](https://github.com/RinteRface/gentelellaShiny) - Bootstrap 3 Gentelella theme for Shiny dashboards.    
 * [shinyjs](https://deanattali.com/shinyjs) - Easily Improve the User Experience of Your Shiny Apps in Seconds.  
 * [Shiny Developer Conference](https://resources.rstudio.com/shiny-developer-conference) - Shiny Developer Conference.  
 * [ShinyTrials](https://github.com/Ronlee12355/ShinyTrials) - Shiny applications with shiny & shinydashboard.  
