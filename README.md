@@ -355,6 +355,8 @@ Collaboration and pull requests are always welcomed!
 * [shinybulma](https://github.com/RinteRface/shinybulma) - Bulma.io for Shiny.    
 * [shinyMetroUi](https://github.com/RinteRface/shinyMetroUi) - Metro 4 UI for Shiny.   
 * [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.    
+* [bs4Dash](https://github.com/DivadNojnarg/bs4Dash) - Bootstrap 4 Shiny dashboards using AdminLTE 3.     
+* [argonDash](https://github.com/RinteRface/argonDash) - Bootstrap 4 Argon template for Shiny dashboards.   
 
 ### Bioinformatics
 *Bioinformatics Tools Implemented in R*
