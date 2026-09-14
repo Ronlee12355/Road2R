@@ -357,6 +357,7 @@ Collaboration and pull requests are always welcomed!
 * [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.    
 * [bs4Dash](https://github.com/DivadNojnarg/bs4Dash) - Bootstrap 4 Shiny dashboards using AdminLTE 3.     
 * [argonDash](https://github.com/RinteRface/argonDash) - Bootstrap 4 Argon template for Shiny dashboards.   
+* [tablerDash](https://github.com/RinteRface/tablerDash) - Tabler dashboard template for Shiny with Bootstrap 4.    
 
 ### Bioinformatics
 *Bioinformatics Tools Implemented in R*
