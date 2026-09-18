@@ -1,53 +1,80 @@
 # Road2R
 
+*A curated repository of R language resources for data science, statistics, and bioinformatics.*
+
+<p align="center">
+  <img src="Rlogonew.png" alt="Road2R logo" width="200">
+</p>
+
+## Overview
+
 Welcome to Road2R, a meticulously curated repository of R language resources. This project is designed to provide data scientists, statisticians, and R enthusiasts with a streamlined pathway to highly efficient data analysis.
 
 Beyond compiling the most popular R packages on CRAN, we have also curated comprehensive workflow diagrams for specialized fields, including data science, text mining, machine learning, and single-cell analysis. Whether you are seeking specific tools for tasks such as data wrangling, visualization, or modeling, or aiming to systematically learn the application of R in bioinformatics, this repository offers exhaustive lists and learning materials tailored to your academic needs.
 
-!['R logo'](Rlogonew.png)
+## What You Will Find
 
+- **Curated catalog** — 281 entries across 17 topics, spanning data manipulation, visualization, machine learning, time series, bioinformatics, and single-cell analysis.
+- **Workflow diagrams** — Reference diagrams for data science, text mining, R package development, and modeling.
+- **Learning materials** — Books, tutorials, online blogs, and cheat sheets for systematic study.
 
-## Contributing Information
-Please see [author's details](https://github.com/Ronlee12355).  
-Collaboration and pull requests are always welcomed!    
+## Workflow Diagrams
 
-## Workflow for Data Science
-!['workflow of data science'](data-science.png)
+### Data Science Workflow
 
-## Workflow of Text Mining
-!['workflow of text mining'](tidyflow.png)
+<img src="data-science.png" alt="Workflow for data science" width="760">
 
-## Workflow of R Package Development
-!['workflow of R package development'](package_workflow.png)
+*Figure 1. Typical workflow for data science.*
 
-## Workflow of Typical Modeling Process
-!['workflow of modeling'](modeling-process.png)
+### Text Mining Workflow
+
+<img src="tidyflow.png" alt="Workflow of text mining" width="760">
+
+*Figure 2. Workflow of text mining.*
+
+### R Package Development Workflow
+
+<img src="package_workflow.png" alt="Workflow of R package development" width="760">
+
+*Figure 3. Workflow of R package development.*
+
+### Modeling Process Workflow
+
+<img src="modeling-process.png" alt="Workflow of a typical modeling process" width="760">
+
+*Figure 4. Workflow of a typical modeling process.*
 
 ## Table of Contents
-- [Road2R](#road2r)
-	- [Contributing Information](#contributing-information)
-	- [Workflow for Data Science](#workflow-for-data-science)
-	- [Workflow of Text Mining](#workflow-of-text-mining)
-	- [Workflow of R Package Development](#workflow-of-r-package-development)
-	- [Workflow of Typical Modeling Process](#workflow-of-typical-modeling-process)
-	- [Table of Contents](#table-of-contents)
-		- [Data manipulation](#data-manipulation)
-		- [Visualization](#visualization)
-		- [Import Data](#import-data)
-		- [Network graph](#network-graph)
-		- [Interactive Graphics](#interactive-graphics)
-		- [Word cloud](#word-cloud)
-		- [Text mining](#text-mining)
-		- [Machine learning](#machine-learning)
-		- [Time series](#time-series)
-		- [Markdown](#markdown)
-		- [Development in R](#development-in-r)
-		- [Online blogs](#online-blogs)
-		- [Learning materials](#learning-materials)
-		- [Cheatsheet](#cheatsheet)
-		- [Shiny](#shiny)
-		- [Bioinformatics](#bioinformatics)
-		- [Single-cell](#single-cell)
+
+- [Overview](#overview)
+- [What You Will Find](#what-you-will-find)
+- [Workflow Diagrams](#workflow-diagrams)
+	- [Data Science Workflow](#data-science-workflow)
+	- [Text Mining Workflow](#text-mining-workflow)
+	- [R Package Development Workflow](#r-package-development-workflow)
+	- [Modeling Process Workflow](#modeling-process-workflow)
+- [Package Catalog](#package-catalog)
+	- [Data manipulation](#data-manipulation)
+	- [Visualization](#visualization)
+	- [Import Data](#import-data)
+	- [Network graph](#network-graph)
+	- [Interactive Graphics](#interactive-graphics)
+	- [Word cloud](#word-cloud)
+	- [Text mining](#text-mining)
+	- [Machine learning](#machine-learning)
+	- [Time series](#time-series)
+	- [Markdown](#markdown)
+	- [Development in R](#development-in-r)
+	- [Online blogs](#online-blogs)
+	- [Learning materials](#learning-materials)
+	- [Cheatsheet](#cheatsheet)
+	- [Shiny](#shiny)
+	- [Bioinformatics](#bioinformatics)
+	- [Single-cell](#single-cell)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Package Catalog
 
 ### Data manipulation
 *Packages that enable you to manipulate data*
@@ -408,4 +435,12 @@ Collaboration and pull requests are always welcomed!
 * [CellChat](https://github.com/sqjin/CellChat) - CellChat is an R package designed for inference, analysis, and visualization of cell-cell communication from single-cell data. CellChat aims to enable users to identify and interpret cell-cell communication within an easily interpretable framework, with the emphasis of clear, attractive, and interpretable visualizations.   
 * [Harmony](https://github.com/immunogenomics/harmony) - Fast, sensitive and accurate integration of single-cell data with Harmony.   
 * [velocyto](https://velocyto.org/) - Estimating RNA velocity in single cell RNA sequencing datasets.   
-* [SCpubr](https://github.com/enblacar/SCpubr/) - SCpubr provides a streamlined way of generating publication ready plots for known Single-Cell visualizations in a "publication ready" format (SCpubr).    
+* [SCpubr](https://github.com/enblacar/SCpubr/) - SCpubr provides a streamlined way of generating publication ready plots for known Single-Cell visualizations in a "publication ready" format (SCpubr).   
+
+## Contributing
+
+Contributions and pull requests are always welcomed. Please see the [maintainer's profile](https://github.com/Ronlee12355) for contact details.
+
+## License
+
+Released under the [GNU General Public License v3.0](LICENSE).
