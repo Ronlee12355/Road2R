@@ -358,6 +358,9 @@ Collaboration and pull requests are always welcomed!
 * [bs4Dash](https://github.com/DivadNojnarg/bs4Dash) - Bootstrap 4 Shiny dashboards using AdminLTE 3.     
 * [argonDash](https://github.com/RinteRface/argonDash) - Bootstrap 4 Argon template for Shiny dashboards.   
 * [tablerDash](https://github.com/RinteRface/tablerDash) - Tabler dashboard template for Shiny with Bootstrap 4.    
+* [shinyMobile](https://github.com/RinteRface/shinyMobile) - Build mobile web apps with Shiny, based on Framework7.   
+* [bootstraplib](https://github.com/rstudio/bootstraplib) - Tools for creating custom Bootstrap 3/4 themes.   
+* [fresh](https://github.com/dreamRs/fresh) - Create new themes for shiny, shinydashboard and bs4Dash.   
 
 ### Bioinformatics
 *Bioinformatics Tools Implemented in R*
