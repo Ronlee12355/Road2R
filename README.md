@@ -388,6 +388,13 @@ Beyond compiling the most popular R packages on CRAN, we have also curated compr
 * [shinyMobile](https://github.com/RinteRface/shinyMobile) - Build mobile web apps with Shiny, based on Framework7.   
 * [bootstraplib](https://github.com/rstudio/bootstraplib) - Tools for creating custom Bootstrap 3/4 themes.   
 * [fresh](https://github.com/dreamRs/fresh) - Create new themes for shiny, shinydashboard and bs4Dash.   
+* [shinyWidgets](https://github.com/dreamRs/shinyWidgets) - A collection of custom Bootstrap 3 widgets for Shiny.   
+* [bsplus](https://github.com/ijlyttle/bsplus) - A collection of Bootstrap 3 add-ons for Shiny.   
+* [slickR](https://github.com/metrumresearchgroup/slickR) - Create carousel effects in R.   
+* [shinyLP](https://github.com/jasdumas/shinyLP) - Create landing pages for Shiny applications.   
+* [shinyFiles](https://github.com/thomasp85/shinyFiles) - Convenient access to the server-side file system from Shiny.   
+* [directoryInput](https://github.com/wleepang/shiny-directory-input) - A widget for interactively selecting a file directory.   
+* [shinyTime](https://github.com/burgerga/shinyTime) - A time input widget for Shiny.   
 
 ### Bioinformatics
 *Bioinformatics Tools Implemented in R*
