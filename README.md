@@ -14,7 +14,7 @@ Beyond compiling the most popular R packages on CRAN, we have also curated compr
 
 ## What You Will Find
 
-- **Curated catalog** — 281 entries across 17 topics, spanning data manipulation, visualization, machine learning, time series, bioinformatics, and single-cell analysis.
+- **Curated catalog** — 300 entries across 17 topics, spanning data manipulation, visualization, machine learning, time series, bioinformatics, and single-cell analysis.
 - **Workflow diagrams** — Reference diagrams for data science, text mining, R package development, and modeling.
 - **Learning materials** — Books, tutorials, online blogs, and cheat sheets for systematic study.
 
@@ -141,6 +141,12 @@ Beyond compiling the most popular R packages on CRAN, we have also curated compr
 * [simplifyEnrichment](https://github.com/jokergoo/simplifyEnrichment/) - simplifyEnrichment: an R/Bioconductor package for Clustering and Visualizing Functional Enrichment Results.   
 * [spiralize](https://github.com/jokergoo/spiralize) - spiralize: an R package for visualizing data on spirals.   
 * [ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap) - Complex heatmaps reveal patterns and correlations in multidimensional genomic data.   
+* [kableExtra](https://github.com/haozhu233/kableExtra) - Build complex tables with knitr::kable().   
+* [formattable](https://github.com/renkun-ken/formattable) - Format table data to make it more readable.   
+* [flextable](https://github.com/davidgohel/flextable) - Easily create publication-ready tables.   
+* [gt](https://github.com/rstudio/gt) - Easily create publication-ready tables.   
+* [basictabler](https://github.com/cbailiss/basictabler) - Create rich-text tables.   
+* [texPreview](https://github.com/metrumresearchgroup/texPreview) - Preview and save LaTeX-rendered images in RStudio, R Markdown and Shiny.   
 
 ### Import Data
 *Packages that enable you to import, load and save data*
@@ -186,6 +192,9 @@ Beyond compiling the most popular R packages on CRAN, we have also curated compr
 * [plotly](https://plot.ly/r/) - Interactive plots.
 * [Highcharter](http://jkunst.com/highcharter/) - Interactive Highcharts plots.
 * [visNetwork](http://dataknowledge.github.io/visNetwork) - Interactive network graphs.
+* [reactable](https://github.com/glin/reactable) - Interactive data tables built on React.
+* [rhandsontable](https://github.com/jrowen/rhandsontable) - Create Excel-style editable tables.
+* [DTedit](https://github.com/jbryer/DTedit) - Create editable tables.
 
 
 ### Word cloud
@@ -395,6 +404,21 @@ Beyond compiling the most popular R packages on CRAN, we have also curated compr
 * [shinyFiles](https://github.com/thomasp85/shinyFiles) - Convenient access to the server-side file system from Shiny.   
 * [directoryInput](https://github.com/wleepang/shiny-directory-input) - A widget for interactively selecting a file directory.   
 * [shinyTime](https://github.com/burgerga/shinyTime) - A time input widget for Shiny.   
+* [shinyMonacoEditor](https://github.com/stla/shinyMonacoEditor) - Use the VS Code editor (Monaco Editor) in Shiny.   
+* [shinyMCE](https://github.com/mul118/shinyMCE) - Use the TinyMCE WYSIWYG editor in Shiny.   
+* [sqlquery](https://github.com/dreamRs/sqlquery) - SQL query widget with autocompletion of table and field names.   
+* [pushbar](https://github.com/JohnCoene/pushbar) - Create drawer panels in Shiny.   
+* [sortable](https://github.com/rstudio/sortable) - Enable drag-and-drop interactions.   
+* [dragulaR](https://github.com/zzawadz/dragulaR) - Drag and drop Shiny elements.   
+* [dndselectr](https://github.com/serenity-r/dndselectr) - A drag-and-drop select input for Shiny.   
+* [esquisse](https://github.com/dreamRs/esquisse) - Build 'ggplot2' plots through a drag-and-drop interface.   
+* [marker](https://github.com/JohnCoene/marker) - Highlight text in Shiny.   
+* [shinysense](https://github.com/nstrayer/shinysense) - A collection of modules that let Shiny sense the world around it: drawing, swiping, recording images from the camera, recording audio, and capturing accelerometer data.   
+* [pixels](https://github.com/javierluraschi/pixels) - Generate or draw pixels.   
+* [fabricerin](https://github.com/feddelegrand7/fabricerin) - Drawing on an HTML canvas in Shiny.   
+* [heyshiny](https://github.com/jcrodriguez1989/heyshiny) - Add speech recognition to Shiny apps.   
+* [vembedr](https://github.com/ijlyttle/vembedr) - Embed videos in Shiny apps.   
+* [pianobar](https://github.com/czxa/pianobar) - macOS only: a piano-key bar chart that plays a piano note when hovering over a bar.   
 
 ### Bioinformatics
 *Bioinformatics Tools Implemented in R*
