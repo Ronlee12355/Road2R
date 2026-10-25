@@ -14,7 +14,7 @@ Beyond compiling the most popular R packages on CRAN, we have also curated compr
 
 ## What You Will Find
 
-- **Curated catalog** — 300 entries across 17 topics, spanning data manipulation, visualization, machine learning, time series, bioinformatics, and single-cell analysis.
+- **Curated catalog** — 313 entries across 17 topics, spanning data manipulation, visualization, machine learning, time series, bioinformatics, and single-cell analysis.
 - **Workflow diagrams** — Reference diagrams for data science, text mining, R package development, and modeling.
 - **Learning materials** — Books, tutorials, online blogs, and cheat sheets for systematic study.
 
@@ -454,6 +454,7 @@ Beyond compiling the most popular R packages on CRAN, we have also curated compr
 * [oncoPredict](https://github.com/HuangLabUMN/oncoPredict/tree/main) - Predict Response from Expression Data and Identify Cell line/Clinical Targets and Trends.    
 * [Mime](https://github.com/l-magnificence/Mime) - Mime: A flexible machine-learning framework to construct and visualize models for clinical characteristics prediction and feature selection.    
 * [cola](https://github.com/jokergoo/cola) - cola: A General Framework for Consensus Partitioning.   
+* [HNSCclassifier](https://github.com/JLI-CBB/HNSCclassifier) - An R package for robust molecular subtype classification of Head and Neck Squamous Cell Carcinoma (HNSC).   
 
 
 ### Single-cell
